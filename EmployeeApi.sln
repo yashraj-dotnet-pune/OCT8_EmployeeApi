@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeApi", "EmployeeApi\EmployeeApi.csproj", "{7790A436-E028-4370-A9F6-0F32EF44F771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeApiClient", "EmployeeApiClient\EmployeeApiClient.csproj", "{D67BC699-5C05-498D-9ED3-55F5C0E41988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7790A436-E028-4370-A9F6-0F32EF44F771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7790A436-E028-4370-A9F6-0F32EF44F771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7790A436-E028-4370-A9F6-0F32EF44F771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7790A436-E028-4370-A9F6-0F32EF44F771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67BC699-5C05-498D-9ED3-55F5C0E41988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67BC699-5C05-498D-9ED3-55F5C0E41988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67BC699-5C05-498D-9ED3-55F5C0E41988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67BC699-5C05-498D-9ED3-55F5C0E41988}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80B1EDB4-18D3-42E8-8229-3C2F900A2D94}
+	EndGlobalSection
+EndGlobal
